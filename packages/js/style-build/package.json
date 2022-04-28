@@ -29,6 +29,7 @@
 		"webpack-rtl-plugin": "^2.0.0"
 	},
 	"scripts": {
+		"postinstall": "composer install",
 		"lint": "eslint index.js"
 	},
 	"private": true,
