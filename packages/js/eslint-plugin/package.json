@@ -36,6 +36,7 @@
 		"access": "public"
 	},
 	"scripts": {
+		"postinstall": "composer install",
 		"lint": "eslint ./rules ./configs"
 	},
 	"devDependencies": {

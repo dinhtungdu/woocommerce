@@ -35,6 +35,9 @@
 		"webpack": "^5.70.0",
 		"webpack-cli": "^3.3.12"
 	},
+	"scripts": {
+		"postinstall": "composer install"
+	},
 	"lint-staged": {
 		"*.(t|j)s?(x)": [
 			"eslint --fix"
