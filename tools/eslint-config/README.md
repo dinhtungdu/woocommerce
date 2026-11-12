@@ -82,3 +82,5 @@ The plugin README's [Editors](../../packages/js/eslint-plugin/README.md#editors)
 
 - [`@woocommerce/eslint-plugin`](../../packages/js/eslint-plugin/README.md) — the public ruleset, including its Flat Config migration guide.
 - [ESLint Flat Config documentation](https://eslint.org/docs/latest/use/configure/configuration-files)
+
+Demo change for PR 70825 review.
